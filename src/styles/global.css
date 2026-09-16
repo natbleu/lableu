@@ -1,6 +1,10 @@
 @import './fonts.css';
 @import 'katex/dist/katex.min.css';
 
+body {
+  background-color: #FFF5EA !important;
+}
+
 body, p, span, li {
   color: #000080 !important; 
 }
