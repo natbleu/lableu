@@ -26,8 +26,8 @@ export async function getThemePalette() {
 }
 
 const defaultModuleRoutes: Record<string, string> = {
-  projects: '/projects',
-  vibe: '/vibe',
+  projects: '/Reseñas',
+  vibe: '/TBR',
 };
 
 interface TopNavLinkConfig {
