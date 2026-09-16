@@ -64,7 +64,7 @@ const resolvedBase =
 
 // https://astro.build/config
 export default defineConfig({
-  site: lableumlle.github.io,
+  site: lableu.github.io,
   base: resolvedBase,
   markdown: {
     remarkPlugins: astroPluginConfig.remarkPlugins,
